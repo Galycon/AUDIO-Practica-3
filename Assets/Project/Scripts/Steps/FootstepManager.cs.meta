@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fe75101b533b7c49b7fd78f29fa1418
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - woodStep: {fileID: 8300000, guid: d06ff64fa9c5e8c419388ab52673737d, type: 3}
+  - stoneStep: {fileID: 8300000, guid: fa64c5f5e0dea714b93d2ff66016afcb, type: 3}
+  - carpetStep: {fileID: 8300000, guid: 851bac4486cdfc048927b0d54ca95356, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
